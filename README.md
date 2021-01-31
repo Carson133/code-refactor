@@ -9,11 +9,11 @@ Base code had bad css and html semantics; cleaned all of those up.  Then correct
 Link to page: [Code Refactor](https://carson133.github.io/code-refactor/)
 
 <p align="center">
-  <img alt="Horiseon Page" src="/assets/images/horiseon.png">
+  <img alt="Horiseon Page" src="code-refactor/assets/images/horiseon.png">
 </p>
 
 <p align="center">
-  <img alt="Code for code-refactor" src="/assets/images/vs_code.png">
+  <img alt="Code for code-refactor" src="code-refactor/assets/images/vs_code.png">
 </p>
 
 ## License
